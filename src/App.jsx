@@ -12,7 +12,7 @@ function App() {
       </div>
       <div id="coursesSection" className='w-full border-top-1 flex flex-col py-4 px-6  gap-6'>
         <div className='border-2 border-zinc-500'></div>
-        <h2 className='font-black text-4xl text-blue-500'>Top PlayLists</h2>
+        <h2 className='font-black text-4xl text-blue-500'>Top PlayLists</h2> 
         <div className='flex w-full flex-col gap-12 md:flex-row flex-wrap justify-center'>
           <Cards/>
         </div>
